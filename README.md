@@ -130,7 +130,7 @@
 <body>
 
 <header>
-    <h2>ABC College</h2>
+    <h2>kle College</h2>
 </header>
 
 <nav>
@@ -144,7 +144,7 @@
 <div class="hero" id="home">
     <img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b" alt="College Image">
     <div class="hero-text">
-        <h1>Welcome to ABC College</h1>
+        <h1>Welcome to kle College</h1>
         <p>Empowering Students for a Better Future</p>
     </div>
 </div>
@@ -152,7 +152,7 @@
 <section id="about">
     <div class="card">
         <h2>About Us</h2>
-        <p>ABC College was established in 2000. We provide high-quality education with modern infrastructure and experienced faculty members.</p>
+        <p>kle College was established in 2000. We provide high-quality education with modern infrastructure and experienced faculty members.</p>
     </div>
 </section>
 
@@ -182,7 +182,7 @@
 </section>
 
 <footer>
-    <p>© 2026 ABC College | All Rights Reserved</p>
+    <p>© 2026 kle College | All Rights Reserved</p>
 </footer>
 
 </body>
